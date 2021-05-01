@@ -1,0 +1,25 @@
+.Livestream {
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.fun_subject {
+    color: lightblue;
+    font-size: 15px;
+}
+
+#additional_info {
+    color: grey;
+    font-style: italic;
+    font-size:10px;
+    text-align: center;
+}
+
+#contact_info {
+    color : rosybrown;
+    font-style: oblique;
+    font-weight : bold;
+    font-size : 20px;
+    text-align : center;
+}
